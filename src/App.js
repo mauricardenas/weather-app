@@ -7,7 +7,6 @@ class App extends Component {
     return (
 
       <div className="App" >
-        Weather App (aplicacion del clima)
         <WeatherLocation></WeatherLocation> 
       </div>
     );
